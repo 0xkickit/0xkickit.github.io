@@ -16,7 +16,7 @@ timezone:
 
 title: Kickit # the main title
 
-tagline: Personal kickit\'s blog # it will display as the sub-title
+tagline: Personal blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Personal blog.
