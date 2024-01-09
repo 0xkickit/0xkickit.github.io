@@ -26,14 +26,11 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: 0xkickit # change to your github username
+  username: 0xkickit
 
 twitter:
-  username: 0xkickit # change to your twitter username
-
+  username: 0xkickit
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: 0xkickit
   email: 0xkickit@gmail.com # change to your email address
   links:
